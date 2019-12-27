@@ -1,7 +1,8 @@
 
 const names = [
   "bernan",
-  "gabriel"
+  "gabriel",
+  "cordero"
 ]
 
 console.log(names)
